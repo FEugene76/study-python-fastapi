@@ -1,1 +1,1 @@
-# study-python-fastapi
+Eugene Filippenko, dns877@gmail.com
